@@ -1,1 +1,3 @@
 first version of 2nd chapter.
+
+Changed offline.
